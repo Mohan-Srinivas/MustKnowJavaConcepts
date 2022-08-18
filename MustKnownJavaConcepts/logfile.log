@@ -1,0 +1,5 @@
+2022-04-19 19:15:10 DEBUG [XMLConfiguratorLog4J] This is a debug mss
+2022-04-19 19:15:10 INFO  [XMLConfiguratorLog4J] This is an Information
+2022-04-19 19:15:10 WARN  [XMLConfiguratorLog4J] This is a warning
+2022-04-19 19:15:10 ERROR [XMLConfiguratorLog4J] This is an Error
+2022-04-19 19:15:10 FATAL [XMLConfiguratorLog4J] This is a fatal
